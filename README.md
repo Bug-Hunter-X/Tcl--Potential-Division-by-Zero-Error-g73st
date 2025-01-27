@@ -1,0 +1,1 @@
+This repository contains a simple Tcl procedure that demonstrates a potential division-by-zero error. The file `bug.tcl` contains the erroneous code, while `bugSolution.tcl` provides a corrected version that handles the error gracefully.  The issue is explained in detail in the `bugDescription` section of the JSON file.
